@@ -4,7 +4,7 @@
   <title><![CDATA[瀛浩的技术博客]]></title>
   <link href="http://linyinghao.github.io/atom.xml" rel="self"/>
   <link href="http://linyinghao.github.io/"/>
-  <updated>2015-09-27T09:35:35+08:00</updated>
+  <updated>2015-09-27T09:38:40+08:00</updated>
   <id>http://linyinghao.github.io/</id>
   <author>
     <name><![CDATA[林瀛浩]]></name>
@@ -20,8 +20,11 @@
     <id>http://linyinghao.github.io/blog/2015/09/26/hello-world</id>
     <content type="html"><![CDATA[<h3>标题</h3>
 
-<p><em>hello1
-</em>hello2</p>
+<ul>
+<li>hello1</li>
+<li>hello2</li>
+</ul>
+
 ]]></content>
   </entry>
   
