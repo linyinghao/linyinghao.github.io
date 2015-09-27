@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[瀛浩的技术博客]]></title>
+  <link href="git@github.com:linyinghao/linyinghao.github.io.git/atom.xml" rel="self"/>
+  <link href="git@github.com:linyinghao/linyinghao.github.io.git/"/>
+  <updated>2015-09-26T18:28:37+08:00</updated>
+  <id>git@github.com:linyinghao/linyinghao.github.io.git/</id>
+  <author>
+    <name><![CDATA[林瀛浩]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[‘Hello_World’]]></title>
+    <link href="git@github.com:linyinghao/linyinghao.github.io.git/blog/2015/09/26/hello-world/"/>
+    <updated>2015-09-26T18:23:47+08:00</updated>
+    <id>git@github.com:linyinghao/linyinghao.github.io.git/blog/2015/09/26/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
