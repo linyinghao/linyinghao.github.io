@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: git@github.com:linyinghao/linyinghao.github.io.git/sitemap.xml 
+Sitemap: http://linyinghao.github.io/sitemap.xml 
